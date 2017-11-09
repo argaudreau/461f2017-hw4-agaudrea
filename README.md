@@ -13,6 +13,7 @@ For the impress me section, I did a few things:
 2. Animated the transition from one step to another (with a progress bar).
 3. Added simple validation so the user can only continue to the next step if the inputs are valid (NOT JQuery Validation).
 4. It's responsive. (Looks good on mobile too, except for the table maybe)
+
 This is still a single page web application, but it is logically separated into 3 steps. This makes it so for commonly
 used, non-mobile pages, do not have to scroll. The less the user needs to manipulate the page, the quicker their visit
 will be. If the user inputs something invalid, they will not be allowed to conitnue, thus making it impossible for the
